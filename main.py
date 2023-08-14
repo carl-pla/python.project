@@ -7,11 +7,9 @@ def check_drive ():
     elif int(input_age) < 18: 
         print ("Du darfst nicht fahren!")
 
-check_drive()
+#check_drive()
+input
+input1 = input("Please enter something ")
 
-# # input
-# input1 = input("Please enter something ")
-
-# # output
-# print("You entered"+ input1) 
+print("You entered"+ input1) 
 
